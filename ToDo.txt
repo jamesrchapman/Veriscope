@@ -1,2 +1,4 @@
 To Do:
 
+So I want to get an analysis of a collection of documents, sourceless statements I want to flag a level of authenticity for, and then I suppose it would be nice if I could take two statements and assign some metric of how implicative one statement is of another, and I could use that to help express convidence in the new statement. 
+
